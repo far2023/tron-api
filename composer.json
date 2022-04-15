@@ -1,5 +1,5 @@
 {
-    "name": "iexbase/tron-api",
+    "name": "far2023/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
@@ -19,7 +19,7 @@
     ],
 
     "require": {
-        "php": "^7.4",
+        "php": "^8.0",
         "comely-io/data-types": "^1.0",
         "guzzlehttp/guzzle": "^7.0",
         "iexbase/web3.php": "^2.0.1",
